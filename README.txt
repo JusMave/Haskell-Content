@@ -1,7 +1,7 @@
 Intro
 This is a Haskell version genetic algorithm for searching global optimal solution.
 
-
+Instructions
 1. Make sure all the imported libraries are installed. 
     We imported Data.List, Data.Ord and System.Random
 
